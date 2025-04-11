@@ -1,0 +1,23 @@
+{
+  "name": "form_using_php",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deyvisson-del/Form_using_PHP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deyvisson-del/Form_using_PHP/issues"
+  },
+  "homepage": "https://github.com/Deyvisson-del/Form_using_PHP#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

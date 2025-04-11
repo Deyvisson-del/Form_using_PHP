@@ -1,4 +1,5 @@
-body {
-    background-color: #FF0000;
-    font-family: Arial, sans-serif;
+body{
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
 }
